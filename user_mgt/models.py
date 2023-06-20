@@ -14,3 +14,4 @@ class User(AbstractUser):
     state = models.CharField(max_length=50, null=True, blank=True)
     pincode = models.CharField(max_length=10, null=True, blank=True)
 
+
