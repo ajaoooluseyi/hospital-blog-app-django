@@ -1,4 +1,16 @@
-# probable-guacamole
+# hospital-blog-app-django
+
+## Description
+It is a hospital blog app API built on a SQLite database. It allows Users to register as Doctors or Patients. Doctors are given access to create blog posts and patients can only read. 
+
+### Dependencies
+
+* Django
+* Python version 3.10.6 
+
+
+### Executing program
+
 On the terminal execute the below command to create the projects' working directory and move into that directory.
 
  
@@ -22,8 +34,9 @@ $ source venv/Script/activate
 Clone this repository in the projects' working directory by executing the command below.
 
 ```python
-$ git clone https://github.com/ajaoooluseyi/probable-guacamole.git
-$ cd probable-guacamole
+$ git clone https://github.com/ajaoooluseyi/hospital-blog-app-django.git
+$ cd hospital-blog-app-django
+
 ```
 
 To install all the required dependencies execute the below command.
